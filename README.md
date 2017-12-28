@@ -14,5 +14,5 @@ Using JS - JQuery to do some projects.
     <span class="d7"></span>
 </div>
 ```
-<img src="https://imgur.com/a/aXWaw">
+<img src="https://imgur.com/aGzaBPZ">
 
